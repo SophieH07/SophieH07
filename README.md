@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there, my name is Zsófi! 👋</h1>
 <p align="center">(Sophie is the English version of Zsófi so feel free to call me that.)</p>
-![](https://visitor-badge.laobi.icu/badge?page_id=SophieH07.SophieH07)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SophieH07.SophieH07)
 <br/>
 <img width="250" align="right" src="./images/code.jpg">
 
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/zsofia-szaniszlo-prog/"><img width='100' src="./images/linkedin.png"></a>
 </p>
 <h4 align="center">⚡ Fun fact: I studied English Studies and Liberal Arts at a university but I quit both of them and started to focus on programming</h4>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH07&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH07)](https://github.com/Sophie07/github-readme-stats)
 <h3 align="center">Have fun checking out my repositories! 👋 </h3>
 <p align="center">
   <img width="300" src="./images/coffee.jpg">
