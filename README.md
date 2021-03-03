@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi there, my name is Zsófi! 👋</h2>
+<h1 align="center"> Hi there, my name is Zsófi! 👋</h1>
 <p align="center">(Sophie is the English version of Zsófi so feel free to call me that.)</p>
 <br/>
 <img width="250" align="right" src="./images/code.jpg">
