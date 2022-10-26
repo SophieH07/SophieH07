@@ -13,19 +13,14 @@
 <img width="70" src="./images/languages/netcore.png">
 <img width="70" src="./images/languages/react.png">
 <img width="70" src="./images/languages/sql.png">
-<img width="70" src="./images/languages/python.png">
 </p>
 <br/>
-<h3 align="center">🔭 I learned a little bit of Angular on my own, using online tutorial videos and a course from <a href="https://www.codewithmosh.com">Code with Mosh</a> website and the little I got to know, I loved.</h3>
-<p align="center">
-  <img width="80" src="./images/languages/angular.png">
-</p>
-<h3> 🌱 I have started to work full-time at a company so I am sorry if many of my repos are not finished.</h3>
+<h3> 🌱 I have been working at a company for almost 2 years now.</h3>
 <h3 align="center">📫 Check out my LinkedIn profile:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/zsofia-szaniszlo-prog/"><img width='100' src="./images/linkedin.png"></a>
 </p>
-<h4 align="center">⚡ Fun fact: I studied English Studies and Liberal Arts at a university but I quit both of them and started to focus on programming</h4>
+<h4 align="center">⚡ Fun fact: I studied English Studies and Liberal Arts at a university but found programming my true calling, although I believe those experiences widened my knowledge and boosted my creativity.</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH07&layout=compact&theme=nord"/>
 </p>
