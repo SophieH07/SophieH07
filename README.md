@@ -8,14 +8,13 @@
 <h3 align="center">In july of 2019 I enrolled in a one-year course at Codecool, Hungary and that was the first time I experienced the fun and challenges of being a programmer.</h3>
 <h3 align="center"> 🌱 I studied several technologies and languages on both frontend and backend side. I am eager to learn and I like to work with any of them.</h3>
 <p align="center">
-<img width="70" src="./images/languages/csharp.png">
 <img width="170" src="./images/languages/htmljscss.png">
 <img width="70" src="./images/languages/netcore.png">
 <img width="70" src="./images/languages/react.png">
 <img width="70" src="./images/languages/sql.png">
 </p>
 <br/>
-<h3> 🌱 I have been working at a company for almost 2 years now.</h3>
+<h3> 🌱 I worked for a company using PL/SQL and JS/HTML/CSS for 2 years.</h3>
 <h3 align="center">📫 Check out my LinkedIn profile:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/zsofia-szaniszlo-prog/"><img width='100' src="./images/linkedin.png"></a>
