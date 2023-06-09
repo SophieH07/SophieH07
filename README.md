@@ -28,7 +28,5 @@
 
 <h3 align="center">Have fun checking out my repositories! 👋 </h3>
 <p align="center">
-  ![CodeCodingGIF](https://github.com/SophieH07/SophieH07/assets/53736936/35d49cdf-a303-4b89-9be0-5a0552f1d00f)
-
   <img width="300" src="./images/coffee.jpg">
 </p>
