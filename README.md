@@ -5,13 +5,11 @@
 <br/>
 <img width="250" align="right" src="./images/code.jpg">
 <div>
-  <h3>Currently I'm working for Trinity Consulting Zrt. as a PL/SQL Developer</h3>
   <h4>2021-2023 🌱 I worked for Agco Kft. using PL/SQL and JS/HTML/CSS</h4>
 <div/>
   <div>
     <h3>Education 🎓 👩🏻‍💻</h3>
-    <p>2023-ongoing || IU University - Robotics, Bachelor's degree || Germany, online</p>
-    <p>2023-ongoing || Linnaeus University - Software Technology, Bachelor's degree || Sweden</p>
+    <p>2023-ongoing || IU University - Computer Science, Bachelor's degree || Germany, online</p>
     <p>2019-2020 🌱 I finished a one-year course at Codecool, Hungary and that was the first time I experienced the fun and challenges of being a programmer.</p>
     <p> 🌱 I studied several technologies and languages on both frontend and backend side. I am eager to learn and I like to work with any of them.</p>
     <p align="center">
