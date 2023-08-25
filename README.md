@@ -23,7 +23,7 @@
 <p>🌻 Languages: English (C1), Hungarian (Mother tongue) || currently learning German & French </p>
 <p>📫 Check out my LinkedIn profile:  <a href="https://www.linkedin.com/in/zsofiaszaniszlo/"><img width='70' src="./images/linkedin.png"></a></p>
 <h4>⚡ Fun fact: I studied English Studies and Liberal Arts at a university but found programming my true calling, although I believe those experiences widened my knowledge and boosted my creativity.</h4>
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH07)]</div>
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH07)]" />
 <h3 align="center">Have fun checking out my repositories! 👋 </h3>
 <p align="center">
   <img width="300" src="./images/coffee.jpg">
