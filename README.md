@@ -28,7 +28,3 @@
 <p align="center">
   <img width="300" src="./images/coffee.jpg">
 </p>
-
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieH07&layout=compact)](https://github.com/SophieH07/github-readme-stats)
-</div>
