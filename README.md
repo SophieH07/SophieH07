@@ -9,7 +9,9 @@
 </div>
 <div>
   <p>Work Experience</p>
-  <p>2023-currently 🌱 I part-time work for the Nyelvtudományi Kutatóközpont | Hungarian Research Centre for Linguistics with various projects and languages including Next.js, PostgreSQL, Docker, Svelte.</p>
+  <p>2025-currently 🌱 Switching from the programming side to a more client facing role, I've been working as a Technical Account Manager for Prefixbox to enrich my experience in the technical world.</p>
+  <p>2024-2025 🌱 I worked as a Frontend Developer for Dialogue Creatives using Next, TypeScript, JavaScript, SCSS, TailwindCSS, React.
+  <p>2023-2025 🌱 I part-time work for the Nyelvtudományi Kutatóközpont | Hungarian Research Centre for Linguistics with various projects and languages including Next.js, PostgreSQL, Docker, Svelte.</p>
   <p>2021-2023 🌱 I worked for Agco Kft. using PL/SQL and JS/HTML/CSS</p>
 <div/>
 <div>
